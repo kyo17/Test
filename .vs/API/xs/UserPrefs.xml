@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{C2C30374-9E86-45F3-8778-75DAA359E79C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Direccion.cs">
+    <Files>
+      <File FileName="API/Controllers/CategoriaController.cs" Line="12" Column="5" />
+      <File FileName="Models/Categoria.cs" />
+      <File FileName="Models/Producto.cs" />
+      <File FileName="API/Controllers/ProductoController.cs" />
+      <File FileName="Repository/CategoriaCollection.cs" />
+      <File FileName="Models/Cliente.cs" />
+      <File FileName="Models/Direccion.cs" Line="8" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="API" expanded="True">
+            <Node name="API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="Models" expanded="True" selected="True" />
+            <Node name="Repository" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

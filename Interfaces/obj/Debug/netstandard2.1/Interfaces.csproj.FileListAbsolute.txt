@@ -1,0 +1,12 @@
+/Users/jonathanespinoza/Projects/API/Interfaces/bin/Debug/netstandard2.1/Interfaces.deps.json
+/Users/jonathanespinoza/Projects/API/Interfaces/bin/Debug/netstandard2.1/Interfaces.dll
+/Users/jonathanespinoza/Projects/API/Interfaces/bin/Debug/netstandard2.1/Interfaces.pdb
+/Users/jonathanespinoza/Projects/API/Interfaces/bin/Debug/netstandard2.1/Models.dll
+/Users/jonathanespinoza/Projects/API/Interfaces/bin/Debug/netstandard2.1/Models.pdb
+/Users/jonathanespinoza/Projects/API/Interfaces/obj/Debug/netstandard2.1/Interfaces.csprojAssemblyReference.cache
+/Users/jonathanespinoza/Projects/API/Interfaces/obj/Debug/netstandard2.1/Interfaces.AssemblyInfoInputs.cache
+/Users/jonathanespinoza/Projects/API/Interfaces/obj/Debug/netstandard2.1/Interfaces.AssemblyInfo.cs
+/Users/jonathanespinoza/Projects/API/Interfaces/obj/Debug/netstandard2.1/Interfaces.csproj.CoreCompileInputs.cache
+/Users/jonathanespinoza/Projects/API/Interfaces/obj/Debug/netstandard2.1/Interfaces.csproj.CopyComplete
+/Users/jonathanespinoza/Projects/API/Interfaces/obj/Debug/netstandard2.1/Interfaces.dll
+/Users/jonathanespinoza/Projects/API/Interfaces/obj/Debug/netstandard2.1/Interfaces.pdb

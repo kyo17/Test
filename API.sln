@@ -1,0 +1,47 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{2B8F9D32-F749-4F86-877E-7C5B77F43E95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{2FC26587-CFF9-452F-B6F6-765643985BBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mongodb", "Mongodb\Mongodb.csproj", "{524794A1-9D18-4201-9950-03EFBD274C64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{5074DA9C-2D9F-4BB5-9BC9-B88C3C9A9DDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{C2C30374-9E86-45F3-8778-75DAA359E79C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B8F9D32-F749-4F86-877E-7C5B77F43E95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B8F9D32-F749-4F86-877E-7C5B77F43E95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B8F9D32-F749-4F86-877E-7C5B77F43E95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B8F9D32-F749-4F86-877E-7C5B77F43E95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FC26587-CFF9-452F-B6F6-765643985BBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FC26587-CFF9-452F-B6F6-765643985BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FC26587-CFF9-452F-B6F6-765643985BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FC26587-CFF9-452F-B6F6-765643985BBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{524794A1-9D18-4201-9950-03EFBD274C64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{524794A1-9D18-4201-9950-03EFBD274C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{524794A1-9D18-4201-9950-03EFBD274C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{524794A1-9D18-4201-9950-03EFBD274C64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5074DA9C-2D9F-4BB5-9BC9-B88C3C9A9DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5074DA9C-2D9F-4BB5-9BC9-B88C3C9A9DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5074DA9C-2D9F-4BB5-9BC9-B88C3C9A9DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5074DA9C-2D9F-4BB5-9BC9-B88C3C9A9DDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2C30374-9E86-45F3-8778-75DAA359E79C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2C30374-9E86-45F3-8778-75DAA359E79C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2C30374-9E86-45F3-8778-75DAA359E79C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2C30374-9E86-45F3-8778-75DAA359E79C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.StandardHeader = $2
+	EndGlobalSection
+EndGlobal

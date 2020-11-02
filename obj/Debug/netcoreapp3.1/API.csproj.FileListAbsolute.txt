@@ -1,0 +1,4 @@
+/Users/jonathanespinoza/Projects/API/obj/Debug/netcoreapp3.1/API.AssemblyInfoInputs.cache
+/Users/jonathanespinoza/Projects/API/obj/Debug/netcoreapp3.1/API.AssemblyInfo.cs
+/Users/jonathanespinoza/Projects/API/obj/Debug/netcoreapp3.1/API.csproj.CoreCompileInputs.cache
+/Users/jonathanespinoza/Projects/API/obj/Debug/netcoreapp3.1/API.MvcApplicationPartsAssemblyInfo.cache
